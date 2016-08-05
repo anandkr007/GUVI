@@ -1,8 +1,8 @@
 #include<stdio.h>
 void main()
 {
-int a;
-scanf("%d",&a);
+long a;
+scanf("%ld",&a);
 if(a!=0)
 {
  if((a%2)==0)
